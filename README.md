@@ -24,14 +24,20 @@ HOMEPAGE.java- A home page where got 3 button to choose to login which is STUDEN
 
 STUDENT
 STUDENTLOGIN.java - A login page for students which can login by their matric number & password. Wrong matric/password can’t login. Only the registered matric & password can logged in.
+
 STUDENTHOME.java- Once the student logged in successfully, he/she is able to see their name on the page. The name is shown which matric number is currently logged in. They are able to see the STUDENTHOME page where there are buttons of Register, view grade, change password and logout.
+
 REGISTER.java- This page is where it brings once students click the register button. It will have a dropdown for subjects that are available to register. Each student can register many subjects that are available but cant register same subjects that already registered before.
+
 VIEWGRADE.java- Once a student clicks the View grade button in STUDENTHOME page, it is brought over here where the student can view their grade for their registered subjects. The student logged in can view their grades only. If the subject is not graded yet, it will show a blank box.
 
 LECTURER
 LECTURELOGIN.java-A login page for lectures which can login by their id & password. Wrong id/password can’t login. Only the registered id & password can logged in.
+
 LECTUREHOME.java-Once the lecture logged in successfully, he/she is able to see their name on the page. The name is shown which id number is currently logged in. They are able to see the LECTUREHOME page where there are buttons of VIEW REGISTEREDE STUDENTS, INPUT MARK,  and logout.
+
 VIEWREGISTER.java- Once the lecturer clicks the View register button in LECTUREHOME page, it is brought over here where the lecturer can view who registered subjects under them only . 
+
 INPUTMARK.java- Once the lecture clicks on the input mark button it is brings over here where lecture can input mark only for the students registered under them. They can update the marks as well and click the save button. They are able to click marks among 0-100 only. And once they input the mark, the grade will be automatically saved according to the marks.
 
 
@@ -39,7 +45,9 @@ INPUTMARK.java- Once the lecture clicks on the input mark button it is brings ov
 ADMIN
 
 ADMINLOGIN.java - A login page for admin which can login by their ID number & password. Wrong ID number or password can’t login. Only the registered ID number & password can log in.
+
 ADMINHOME.java - Once the admin logged in successfully, he/she is able to see their name on the page. The name is shown which ID number is currently logged in. They are able to see the ADMINHOME page where there are three buttons which are Add Students, Delete Student and Logout. When Add Students button is clicked, it will navigate to ADDSTUDENT page and when Delete Student button is clicked, it will prompt an Input box where admin need to enter the matric number of student which want to be deleted.
+
 ADDSTUDENT.java - Admin have to enter the student name and matric number of new student to be added into the database.
 
 
@@ -47,6 +55,7 @@ ADDSTUDENT.java - Admin have to enter the student name and matric number of new 
 C. Architecture/Layer diagram for each of the apps including the middleware
 
 1)HOMEPAGE.java 
+
 ![Untitled Diagram-Page-12 drawio (1)](https://github.com/jeevethaaraju/PROJECT/assets/163825255/dea59e24-dca4-4f25-b392-1598a5b72941)
 
 
