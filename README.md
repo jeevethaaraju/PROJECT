@@ -228,11 +228,14 @@ message: Additional message related to the deletion status (Student deleted succ
 10) ADDSTUDENT.java
       Add Student by Admin
 Endpoint: http://localhost/project/add_student.php
+
 Purpose: Add student into the system
+
 Request Parameters:
 name: Name of the new student.
 matric: Matriculation number of the new student.
 password: Set as default which is “student”.
+
 Response:
 JSON object with fields:
 status: Status of the registration will be shown after entering the name and matric number of new students.
@@ -248,3 +251,5 @@ register
 lecture
 student
 subject
+
+Presentation link: https://youtu.be/P0gji_9vjsw?si=wH8rMsWrg65g8u1n
