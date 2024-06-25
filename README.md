@@ -96,17 +96,29 @@ C. Architecture/Layer diagram for each of the apps including the middleware
 D. List of URL endpoints middleware RESTful/SOAP/Socket
 
 http://localhost/project/add_student.php
+
 http://localhost/project/change_password.php
+
 http://localhost/project/deleteStudent.php
+
 http://localhost/project/fetch_students.php
+
 http://localhost/project/getstudents.php
+
 http://localhost/project/getsubject.php
+
 http://localhost/project/login.php
+
 http://localhost/project/loginadmin.php
+
 http://localhost/project/loginlecture.php
+
 http://localhost/project/register.php
+
 http://localhost/project/save_marks.php
+
 http://localhost/project/update_password.php
+
 http://localhost/project/viewgrade.php
 
 
