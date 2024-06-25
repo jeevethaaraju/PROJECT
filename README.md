@@ -35,6 +35,7 @@ B. Brief explanation each apps
 HOMEPAGE.java- A home page where got 3 button to choose to login which is STUDENT,LECTURE,ADMIN.
 
 STUDENT
+
 STUDENTLOGIN.java - A login page for students which can login by their matric number & password. Wrong matric/password can’t login. Only the registered matric & password can logged in.
 
 STUDENTHOME.java- Once the student logged in successfully, he/she is able to see their name on the page. The name is shown which matric number is currently logged in. They are able to see the STUDENTHOME page where there are buttons of Register, view grade, change password and logout.
@@ -44,6 +45,7 @@ REGISTER.java- This page is where it brings once students click the register but
 VIEWGRADE.java- Once a student clicks the View grade button in STUDENTHOME page, it is brought over here where the student can view their grade for their registered subjects. The student logged in can view their grades only. If the subject is not graded yet, it will show a blank box.
 
 LECTURER
+
 LECTURELOGIN.java-A login page for lectures which can login by their id & password. Wrong id/password can’t login. Only the registered id & password can logged in.
 
 LECTUREHOME.java-Once the lecture logged in successfully, he/she is able to see their name on the page. The name is shown which id number is currently logged in. They are able to see the LECTUREHOME page where there are buttons of VIEW REGISTEREDE STUDENTS, INPUT MARK,  and logout.
@@ -112,7 +114,7 @@ E. Functions/Features in the middleware
 
 1) STUDENTLOGIN.java
 
- Login for student
+Login for student
 Endpoint: http://localhost/project/login.php
 Purpose: login by students to register subject
 Request Parameters:
