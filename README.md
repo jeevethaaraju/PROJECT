@@ -20,6 +20,7 @@ ADDSTUDENT.java
 
 
 B. Brief explanation each apps
+
 HOMEPAGE.java- A home page where got 3 button to choose to login which is STUDENT,LECTURE,ADMIN.
 
 STUDENT
