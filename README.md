@@ -1,7 +1,7 @@
 A. How many apps involved = 3
 HOMEPAGE.java
 
-STUDENT
+*STUDENT*
 
 STUDENTLOGIN.java
 
@@ -11,7 +11,7 @@ REGISTER.java
 
 VIEWGRADE.java
 
-LECTURE
+*LECTURE*
 
 LECTURELOGIN.java
 
@@ -21,7 +21,7 @@ VIEWREGISTER.java
 
 INPUTMARK.java
 
-ADMIN
+*ADMIN*
 
 ADMINLOGIN.java
 
@@ -34,7 +34,7 @@ B. Brief explanation each apps
 
 HOMEPAGE.java- A home page where got 3 button to choose to login which is STUDENT,LECTURE,ADMIN.
 
-STUDENT
+*STUDENT*
 
 STUDENTLOGIN.java - A login page for students which can login by their matric number & password. Wrong matric/password can’t login. Only the registered matric & password can logged in.
 
@@ -44,7 +44,7 @@ REGISTER.java- This page is where it brings once students click the register but
 
 VIEWGRADE.java- Once a student clicks the View grade button in STUDENTHOME page, it is brought over here where the student can view their grade for their registered subjects. The student logged in can view their grades only. If the subject is not graded yet, it will show a blank box.
 
-LECTURER
+*LECTURER*
 
 LECTURELOGIN.java-A login page for lectures which can login by their id & password. Wrong id/password can’t login. Only the registered id & password can logged in.
 
@@ -56,7 +56,7 @@ INPUTMARK.java- Once the lecture clicks on the input mark button it is brings ov
 
 
 
-ADMIN
+*ADMIN*
 
 ADMINLOGIN.java - A login page for admin which can login by their ID number & password. Wrong ID number or password can’t login. Only the registered ID number & password can log in.
 
@@ -269,11 +269,17 @@ message: Additional message related to the registration status (Student added su
 F. The database and tables involved in the projects
 
 DATABASE NAME- projectdad
-TABLES
+
+*TABLES*
+
 admins
+
 register
+
 lecture
+
 student
+
 subject
 
 Presentation link: https://youtu.be/P0gji_9vjsw?si=wH8rMsWrg65g8u1n
