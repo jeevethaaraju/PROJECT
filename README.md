@@ -132,6 +132,7 @@ message (if login is fail): Invalid matric number and password.
 Purpose: homepage for students to choose to weather they want to register subject/view their grades or change their password 
 Response:
 Direct to register subject page of click register button and same goes to change password button and view grade button
+
 3) REGISTER.java
 Register Subject for Student
 Endpoint:http://localhost/project/register.php
@@ -158,6 +159,7 @@ message (if status is fail): Error message.
 grades (if status is success): Array of objects containing grade details:
 subjectname: Name of the subject.
 grade: Grade obtained.
+
 5)LECTURELOGIN.java
 
  Login for lecturer
@@ -171,12 +173,6 @@ JSON object with fields:
 status: Status of the login(success or fail).
 message (if login fails): Invalid matric number and password.
 message (if login success): Login successfully.
-
-
-
-
-
-
 
 
 
@@ -240,7 +236,8 @@ Response:
 JSON object with fields:
 status: Status of the deletion will be shown after entering the matric number of student.
 message: Additional message related to the deletion status (Student deleted successfully).
-10) ADDSTUDENT.java
+
+11) ADDSTUDENT.java
       Add Student by Admin
 Endpoint: http://localhost/project/add_student.php
 
