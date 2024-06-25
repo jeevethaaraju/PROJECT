@@ -2,20 +2,31 @@ A. How many apps involved = 3
 HOMEPAGE.java
 
 STUDENT
+
 STUDENTLOGIN.java
+
 STUDENTHOME.java
+
 REGISTER.java
+
 VIEWGRADE.java
 
 LECTURE
+
 LECTURELOGIN.java
+
 LECTUREHOME.java
+
 VIEWREGISTER.java
+
 INPUTMARK.java
 
 ADMIN
+
 ADMINLOGIN.java
+
 ADMINHOME.java
+
 ADDSTUDENT.java
 
 
