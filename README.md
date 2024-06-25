@@ -88,6 +88,8 @@ C. Architecture/Layer diagram for each of the apps including the middleware
 
 3)ADMIN
 
+![Screenshot 2024-06-25 154624](https://github.com/jeevethaaraju/PROJECT/assets/163825255/7d46e53e-a2a4-421d-9950-36a8b7d88617)
+
 
 
 
