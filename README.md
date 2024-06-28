@@ -1,4 +1,5 @@
 A. How many apps involved = 3
+
 HOMEPAGE.java
 
 *STUDENT*
